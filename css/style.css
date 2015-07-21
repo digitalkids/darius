@@ -1,0 +1,64 @@
+h3{
+  color: white;
+}
+
+.ferrari {
+  color:red;
+  font-weight:bolt;
+  font-family:"arial";
+ text-transform:aparcase;
+}
+.lamborghini{
+  color:yellow;
+  font-weight:bold;
+   }
+.porsche{
+  color:green;
+  font-weight:bold;
+}
+.bugati-veyron{
+  color:blue;
+  font-weight:bold;
+}
+.dodge{
+  color:orange;
+  font-weight:bold;
+}
+body{
+  background-image:url("http://cdn2.autoexpress.co.uk/sites/autoexpressuk/files/images/car_photo_308914.jpg");
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-scroll:fixed;
+  background-size:cover;
+}
+.porsche-title {
+  color:red;
+ font-weight:bold;
+  font-size:25px;
+}
+.masini{
+  color:white;
+}
+#dacia{
+  border:3px solid black;
+  border-radius:10px;
+}
+
+
+label {
+  display: block;
+  opacity: 0.1;
+}
+#num_of_balls {
+  position: absolute;
+  opacity: 0.5;
+}
+
+img{
+  border:10px solid transparent;
+  -webkit-transition: all 700ms ease;
+}
+
+img:hover{
+border:10px solid red;
+  border-radius:100px;
